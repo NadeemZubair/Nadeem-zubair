@@ -10,7 +10,7 @@
 <a href="https://www.facebook.com/share/1dA3SqSsPD/"><img src="https://img.icons8.com/color/48/facebook-new.png" width="40" alt="Facebook"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.threads.com/@engr.nadeem04"><img src="https://img.icons8.com/ios-filled/50/000000/threads.png" width="40" alt="Threads"></a>
 </p>
-## 👨‍🔬 About Me
+👨‍🔬 About Me
 
 I am an **Agricultural Engineer and water-resources researcher** with expertise in **GIS, remote sensing, irrigation engineering, hydrological analysis, environmental modelling, and spatial data analysis**.
 
