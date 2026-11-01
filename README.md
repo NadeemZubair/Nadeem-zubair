@@ -182,7 +182,7 @@ Selected work includes:
 
 
 
-# 📚 Selected Publications
+# 📚 Publications
 
 ### 2026
 
