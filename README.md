@@ -218,17 +218,16 @@ Ali Raza et al., including Nadeem Zubair.
 
 # 🎓 Education
 
+### Master in Mechanical Engineering
+**Agricultural Machinery & Equipment Engineering**  
+jiamusi university, China
+
 ### M.Sc. (Hons.) Agricultural Engineering
 **Irrigation & Drainage**  
 Bahauddin Zakariya University, Multan  
-**CGPA: 3.92 / 4.00**
-
-### Master in Mechanical Engineering
-**Agricultural Machinery & Equipment Engineering**  
-Bahauddin Zakariya University, Multan
 
 ### B.Sc. Agricultural Engineering
 Bahauddin Zakariya University, Multan  
-**CGPA: 3.71 / 4.00**
+
 
 ---
